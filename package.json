@@ -1,0 +1,22 @@
+{
+  "name": "leitordecomentarios",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/brthema072/leitor_de_comentarios_do_instagram.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/brthema072/leitor_de_comentarios_do_instagram/issues"
+  },
+  "homepage": "https://github.com/brthema072/leitor_de_comentarios_do_instagram#readme",
+  "dependencies": {
+    "puppeteer": "^5.2.1"
+  }
+}
